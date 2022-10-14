@@ -3,4 +3,6 @@ Green
 Blue
 Yellow
 Pink
+Orange
+Brown
 are colors in rainbow
